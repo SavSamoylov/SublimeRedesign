@@ -42,7 +42,7 @@ a{
 .hero{
 	height:100vh;
 	background: #222c48;
-	background-image: url(/assets/imgs/heroBg.png);
+	background-image: url("../../assets/imgs/heroBg.png");
 	color: #bcc5d1;
 	display: block;
 }
@@ -63,7 +63,7 @@ a{
 	padding:0 15px;
 	width:15px;
 	height:15px;
-	background: url("/assets/imgs/logoHeader.png") no-repeat;
+	background: url("../../assets/imgs/logoHeader.png") no-repeat;
 	background-position: center;
 
 }
@@ -178,7 +178,7 @@ a{
 }
 
 .performanceDiv{
-	background: url("/assets/imgs/mDiv1.png") no-repeat;
+	background: url("../../assets/imgs/mDiv1.png") no-repeat;
 	background-position: top right;
 	height: 380px;
 	margin-bottom:100px;
@@ -249,7 +249,7 @@ a{
 	height:25px;
 	right:49%;
 	top:0px;
-	background: url("/assets/imgs/heart.png");
+	background: url("../../assets/imgs/heart.png");
 }
 
 .testimonialDiv p, .testimonialDiv a{
