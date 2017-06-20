@@ -43,6 +43,7 @@ a{
 	height:100vh;
 	background: #222c48;
 	background-image: url("../../assets/imgs/heroBg.png");
+	background-size:cover;
 	color: #bcc5d1;
 	display: block;
 }
